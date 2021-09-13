@@ -15,7 +15,7 @@
 
 - **Instructor:** Douglas Luman
 - **Email:** dluman@allegheny.edu
-- [**Course schedule**](http://chomp.link/ls-190-fall-2021-sched)
+- [**Course schedule**](http://chompe.rs/ls-190-fall-2021-sched)
 
 ### Meetings and office hours
 
